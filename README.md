@@ -1,4 +1,7 @@
 # Hospital record Management System using Primary Indexing
+
+https://img.shields.io/youtube/views/SAVKLLzXy8M?style=plastic
+
 Type - Mini Project  
 Subject - File Structures  
 University - VTU  
