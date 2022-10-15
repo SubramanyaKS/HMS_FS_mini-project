@@ -1,6 +1,6 @@
 # Hospital record Management System using Primary Indexing
 
-[! Views](https://img.shields.io/youtube/views/SAVKLLzXy8M?style=plastic)
+<img src="https://img.shields.io/youtube/views/SAVKLLzXy8M?style=plastic"/>
 
 Type - Mini Project  
 Subject - File Structures  
